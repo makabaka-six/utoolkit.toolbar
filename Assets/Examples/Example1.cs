@@ -1,5 +1,3 @@
-### 使用方式
-``` C#
 using UnityEditor;
 using UnityEngine;
 using UToolkit.Toolbar.Editor;
@@ -28,7 +26,3 @@ public class Example1
         }
     }
 }
-```
-
-### 效果展示
-<img src = "./Assets/Images~/Snipaste_2025-07-26_04-21-26.png"/>
